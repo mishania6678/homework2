@@ -14,3 +14,5 @@ while True:
         lst.append(int(new_item))
         lst = sorted(lst, reverse=True)
         print(f'Новый рейтинг: {" ".join(list(map(str, lst)))}')
+
+# test1

@@ -19,3 +19,5 @@ try:
 
 except Exception:
     print('Некорректный формат входных данных')
+
+# test1
