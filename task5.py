@@ -15,4 +15,4 @@ while True:
         lst = sorted(lst, reverse=True)
         print(f'Новый рейтинг: {" ".join(list(map(str, lst)))}')
 
-# test1
+# test2

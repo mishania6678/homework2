@@ -17,4 +17,4 @@ month_exist = True if 1 <= month <= 12 else False
 # print(dict_solution()) if month_exist else print('Такого месяца не существует')
 # print(list_solution()) if month_exist else print('Такого месяца не существует')
 
-# test1
+# test2
